@@ -50,14 +50,3 @@ ALTER TABLE marks DROP COLUMN subject3;
 --5.RENAME IS USED TO RENAME THE TABLE NAME
 
 ALTER TABLE marks RENAME TO markss;
-
-
-
-
-
-
-
-
-
-
-

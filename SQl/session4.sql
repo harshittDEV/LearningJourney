@@ -21,3 +21,4 @@ REPLACE INTO marks(marks) VALUES
 (3050),
 (6050);
 
+SELECT * FROM marks;
